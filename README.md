@@ -9,6 +9,7 @@ Hello mọi người, sau đây mình sẽ hướng dẫn mọi người giải 
 
 URL của challenge: http://challenge01.root-me.org/web-serveur/ch56/
 Mở URL của chall bằng trình duyệt và sử dụng công cụ Burp suite để xem các gói tin Request/responde. 
+
 <img width="665" height="206" alt="Screenshot 2026-05-27 154752" src="https://github.com/user-attachments/assets/7f5c585f-356e-4afa-9a29-c2b668f0bb3e" />
 
 Theo như gọi ý của bài. Hãy tìm các để đạt điểm cao nhất. Như ta thấy trên web beat score của tác giả hiện tại là **999999**. Ta thử ấn `Give a try` 
